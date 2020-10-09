@@ -1,2 +1,2 @@
 # AllBugsNoFix
-Website
+CS491 Project Website
