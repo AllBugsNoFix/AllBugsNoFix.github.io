@@ -10,3 +10,5 @@ Enes Merdane - 21600946
 Alptekin Önder - 21602728
 
 Muzaffer Yasin Köktürk - 21703552
+
+Supervised by Prof. Dr. Uğur Güdükbay
